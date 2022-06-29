@@ -1,2 +1,2 @@
 # heart_disease_project
-Model development for heart disease dataset
+Classification model for heart disease dataset
