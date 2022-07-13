@@ -4,6 +4,8 @@ Utilizing an ML model for the purpose of classifying heart disease based upon pa
 
 The UCI Heart Disease dataset is sourced from Kaggle and contains various feature variables per patient, along with a designation of whether the patient has/does not have heart disease.
 
+Several classifiers were trialed, arriving on the logistic regression model as the optimally performing model. Various evaluation metrics were calculated and included is also an in-depth exploratory analysis of feature importance of the dataset.
+
 ## Explanation of features and label columns (sourced from Kaggle):
 
  * age: age in years
