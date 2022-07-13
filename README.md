@@ -9,8 +9,8 @@ The UCI Heart Disease dataset is sourced from Kaggle and contains various featur
  * age: age in years
  * sex: sex (1 = male; 0 = female)
  * cp: chest pain type
- * Value 0: typical angina
- * Value 1: atypical angina
+ ** Value 0: typical angina
+ ** Value 1: atypical angina
  * Value 2: non-anginal pain
  * Value 3: asymptomatic
  * trestbps: resting blood pressure (in mm Hg on admission to the hospital)
