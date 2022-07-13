@@ -4,7 +4,7 @@ Utilizing an ML model for the purpose of classifying heart disease based upon pa
 
 The UCI Heart Disease dataset is sourced from Kaggle and contains various feature variables per patient, along with a designation of whether the patient has/does not have heart disease.
 
-Explanation of features and label columns (sourced from Kaggle):
+## Explanation of features and label columns (sourced from Kaggle):
 
  * age: age in years
  * sex: sex (1 = male; 0 = female)
